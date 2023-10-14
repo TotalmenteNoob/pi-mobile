@@ -6,9 +6,10 @@ const gamesPageStyles = StyleSheet.create({
     flexDirection: "row",
     flexWrap: "wrap",
   },
+
   levelButton: {
     
-  }
+  } 
 })
 
 export default gamesPageStyles;
